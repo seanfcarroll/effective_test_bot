@@ -22,11 +22,11 @@ Make sure everything actually works.
 
 ## Capybara Webkit
 
-This is the `capybara` branch of effective_test_bot which supports Rails <= 5.1 and Capybara Webkit.
+This is the `capybara-webkit` branch of effective_test_bot which supports Rails <= 5.1 and Capybara Webkit.
 
 All published effective_test_bot 0.x gems will support Rails <= 5.1 and Capybara Webkit.
 
-For Rails 5.2+ please see the master branch and/or effective_test_bot 1.x gems.
+For Rails 5.1+ please see the master branch and/or effective_test_bot 1.x gems.
 
 
 ## Getting Started
